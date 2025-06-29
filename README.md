@@ -1,6 +1,8 @@
 # 💫 About Me:
 Dedicated goal-driven and bilingual professional with a BS in Chemical Engineering and accredited Software Developer with a record of success directing full-fledged digital solutions into full working systems, combined with demonstrated abilities in project coordination, scheduling and programming. 5+years of experience in developing Web and Cross-Platform Mobile Applications with a wide range of eCommerce and technology features. Skilled in software development lifecycles, testing methodologies and tools such as XCode IDE, Postman, Cocoa Pods, Figma, Git, Jira, TestFlight, CI/CD, BitBucket Pipelines, GitHub Actions. Substantial experience building high-performing, scalable, and enterprise-grade applications with both Node.js and Swift Environments. <br><br>🔭 I’m currently working on daily expense app with SwiftUI<br>👯 I’m looking to collaborate on Web and Cross-Platform Mobile Applications, with React, Next.js and SwiftUI. <br>⚡ Fun fact about me: I do better programming when listening Disney soundtracks. 
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enriquejs96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeisone-sarmiento/) 
